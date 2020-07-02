@@ -1,0 +1,39 @@
+﻿  pch.cpp
+  PersonBehaviorAnalyser.cpp
+f:\tof\tofcount\trunk\src\personbehavioranalyser\personbehavioranalyser\personbehavioranalyser.cpp(65): warning C4101: “key”: 未引用的局部变量
+f:\tof\tofcount\trunk\src\personbehavioranalyser\personbehavioranalyser\personbehavioranalyser.cpp(155): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+f:\tof\tofcount\trunk\src\personbehavioranalyser\personbehavioranalyser\personbehavioranalyser.cpp(156): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+f:\tof\tofcount\trunk\src\personbehavioranalyser\personbehavioranalyser\personbehavioranalyser.cpp(157): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+f:\tof\tofcount\trunk\src\personbehavioranalyser\personbehavioranalyser\personbehavioranalyser.cpp(164): warning C4018: “<”: 有符号/无符号不匹配
+f:\tof\tofcount\trunk\src\personbehavioranalyser\personbehavioranalyser\personbehavioranalyser.cpp(167): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\tof\tofcount\trunk\src\personbehavioranalyser\personbehavioranalyser\personbehavioranalyser.cpp(168): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\tof\tofcount\trunk\src\personbehavioranalyser\personbehavioranalyser\personbehavioranalyser.cpp(173): warning C4244: “参数”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  PersonBehaviorAnalyser.vcxproj -> F:\ToF\ToFCount\trunk\src\PersonBehaviorAnalyser\Debug\PersonBehaviorAnalyser.exe

@@ -1,0 +1,4 @@
+﻿PersonBehaviorAnalyser.obj : error LNK2019: 无法解析的外部符号 "unsigned char * __cdecl uGetBuffer(int,int)" (?uGetBuffer@@YAPEAEHH@Z)，该符号在函数 main 中被引用
+PersonBehaviorAnalyser.obj : error LNK2019: 无法解析的外部符号 "void __cdecl cv::imshow(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class cv::debug_build_guard::_InputArray const &)" (?imshow@cv@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV_InputArray@debug_build_guard@1@@Z)，该符号在函数 "void __cdecl IR_display(unsigned char *)" (?IR_display@@YAXPEAE@Z) 中被引用
+C:\ToFLIB\lib\ToFLIB.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\Project\ToFCount\trunk\src\PersonBehaviorAnalyser\x64\Debug\PersonBehaviorAnalyser.exe : fatal error LNK1120: 2 个无法解析的外部命令
